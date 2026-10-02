@@ -1,0 +1,22 @@
+[  
+  {
+    "name": "Oregairu",
+    "resource_dir": "oregairu",
+    "aliases": ["oregairu"],
+    "reserved_codepoints": {
+      "start": "\uE12F",
+      "end": "\uE2AF"
+    },
+    "fullwidth_blocklist": ["'", "-", "[", "]", "(", ")"]
+  },
+  {
+    "name": "Oregairu Vertical Text",
+    "resource_dir": "ogv",
+    "aliases": ["vtext", "ogv", "ogvtext"],
+    "reserved_codepoints": {
+      "start": "\uE12F",
+      "end": "\uE2AF"
+    },
+    "fullwidth_blocklist": ["'", "-", "[", "]", "(", ")"]
+  }
+]
